@@ -1,2 +1,2 @@
 # Connect3
-My first Android game.
+A game like naughts and crosses (tic-tac-toe).
